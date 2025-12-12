@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Actor",
+  "base_artist": "幾田りら",
+  "createdAt": "2025-12-12T13:55:09.235947Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cracked Actor",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/01_Cracked_Actor_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Chinese Actor",
+      "artist": "Califone",
+      "has_synced": false,
+      "path": "select/02_A_Chinese_Actor_Califone.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Actor",
+      "artist": "Everything Everything",
+      "has_synced": true,
+      "path": "select/03_The_Actor_Everything_Everything.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cracked Actor",
+      "artist": "Big Country",
+      "has_synced": true,
+      "path": "select/04_Cracked_Actor_Big_Country.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Actor Out of Work",
+      "artist": "St. Vincent",
+      "has_synced": true,
+      "path": "select/05_Actor_Out_of_Work_St._Vincent.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Actor Out of Work (Morning Becomes Eclectic session)",
+      "artist": "St. Vincent",
+      "has_synced": true,
+      "path": "select/06_Actor_Out_of_Work_(Morning_Becomes_Eclectic_session)_St._Vincent.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Non-State Actor",
+      "artist": "Soundgarden",
+      "has_synced": true,
+      "path": "select/07_Non-State_Actor_Soundgarden.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Actor",
+      "artist": "Tygers of Pan Tang",
+      "has_synced": false,
+      "path": "select/08_The_Actor_Tygers_of_Pan_Tang.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cracked Actor (Live) [Stereo] - Live; Stereo",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/09_Cracked_Actor_(Live)_[Stereo]_-_Live;_Stereo_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cracked Actor - Live",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/10_Cracked_Actor_-_Live_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cracked Actor - Live '83, 2018 Remaster",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/11_Cracked_Actor_-_Live_'83,_2018_Remaster_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cracked Actor - Live at BBC Radio Theatre, London, 27th June, 2000; 2021 Remaster",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/12_Cracked_Actor_-_Live_at_BBC_Radio_Theatre,_London,_27th_June,_2000;_2021_Remaste_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Medley: Future Legend / Diamond Dogs Intro / Cracked Actor",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/13_Medley__Future_Legend___Diamond_Dogs_Intro___Cracked_Actor_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Medley: Future Legend \u0000 Diamond Dogs Intro \u0000 Cracked Actor",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/14_Medley__Future_Legend_\u0000_Diamond_Dogs_Intro_\u0000_Cracked_Actor_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Actor",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/15_The_Actor_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "main actor",
+      "artist": "美波",
+      "has_synced": true,
+      "path": "select/16_main_actor_美波.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "main actor",
+      "artist": "Minami",
+      "has_synced": true,
+      "path": "select/17_main_actor_Minami.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Actor",
+      "artist": "幾田りら",
+      "has_synced": false,
+      "path": "select/pl_01_Actor_幾田りら.txt"
+    }
+  ]
+}
